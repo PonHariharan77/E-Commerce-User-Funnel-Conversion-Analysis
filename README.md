@@ -26,15 +26,7 @@ This project started with a simple question:
 
 I set out to follow the data and answer that question — step by step, query by query.
 
----
 
-## 📊 Dashboard Preview
-
-![E-Commerce Funnel Dashboard](dashboard_screenshot.png)
-
-*Interactive Power BI dashboard with slicers for Item ID and Event type.*
-
----
 
 ## 📖 The Story the Data Tells
 
